@@ -40,7 +40,7 @@ buildscript {
 
 ```groovy
 dependencies {
-  compile 'com.techatmosphere:hampangadapter:0.1.0'
+  compile 'com.github.nirwannursabda:hampang-adapter:0.1.0'
 }
 ```
 
