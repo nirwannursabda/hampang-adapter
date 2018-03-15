@@ -25,6 +25,12 @@ You can also add filter rule
 tad.addFilterRule(new YourFilter(tad.getNotify()));
 ```
 
+But unfortunately you only can used one variable name "viewModel" for now
+<br />
+We can improve it later :)
+
+<br />Cheers
+
 Download
 --------
 
