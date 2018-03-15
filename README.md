@@ -3,7 +3,6 @@ Remove boilerplate for simple adapter inside recycler view<br />
 Perfect match with using MVVM and databinding
 <br />
 <br />
-<br />
 Initialize adapter
 
 ```groovy
